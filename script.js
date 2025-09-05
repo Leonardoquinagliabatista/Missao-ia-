@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você acha que o futuro será mais tecnológico ou mais sustentável??",
+        enunciado: "Você acha que o futuro será mais tecnológico ou mais sustentável?",
         alternativas: [
             {
                 texto: "Tecnológico!",
